@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+node_modules/
+frontend/dist/
+data/
+.env
+.DS_Store
+.deepeval/
+# Client working file: contains call notes / personal data. Never commit.
+khushi new*.xlsx
+*.xlsx
+!templates/output_template.xlsx

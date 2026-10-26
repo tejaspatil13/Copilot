@@ -1,0 +1,19 @@
+# Render Blueprint: one Docker web service with a persistent disk for the datasets.
+services:
+  - type: web
+    name: uk-business-finder
+    runtime: docker
+    plan: starter            # 512 MB RAM is enough: imports stream, searches are SQLite reads
+    region: frankfurt
+    healthCheckPath: /api/health
+    disk:
+      name: data
+      mountPath: /data
+      sizeGB: 5
+    envVars:
+      - key: UKA_DATA_DIR
+        value: /data
+      - key: UKA_AUTO_IMPORT_ON_START
+        value: "true"
+      - key: UKA_APP_PASSWORD
+        generateValue: true

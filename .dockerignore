@@ -1,0 +1,12 @@
+.venv
+**/__pycache__
+**/.pytest_cache
+frontend/node_modules
+frontend/dist
+data
+.env
+*.xlsx
+!templates/output_template.xlsx
+.git
+.deepeval
+docs

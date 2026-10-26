@@ -1,0 +1,470 @@
+[
+{
+"code": "CA",
+"label": "CA - Advertising Right and Premises"
+},
+{
+"code": "CA1",
+"label": "CA1 - Advertising Station and Premises"
+},
+{
+"code": "MS2",
+"label": "MS2 - Ambulance Station and Premises"
+},
+{
+"code": "LT1",
+"label": "LT1 - Amusement Arcade and Premises"
+},
+{
+"code": "LT4",
+"label": "LT4 - Amusement Park and Premises"
+},
+{
+"code": "TD2",
+"label": "TD2 - Auxiliary Defence Establishment and Premises"
+},
+{
+"code": "CS1",
+"label": "CS1 - Bank and Premises"
+},
+{
+"code": "LH1",
+"label": "LH1 - Beach Hut and Premises"
+},
+{
+"code": "CS2",
+"label": "CS2 - Betting Shop and Premises"
+},
+{
+"code": "LT2",
+"label": "LT2 - Bingo Hall and Premises"
+},
+{
+"code": "IM2",
+"label": "IM2 - Brickworks and Premises"
+},
+{
+"code": "NT",
+"label": "NT - Bus Station and Premises"
+},
+{
+"code": "IF4",
+"label": "IF4 - Business Unit and Premises"
+},
+{
+"code": "CR1",
+"label": "CR1 - Cafe and Premises"
+},
+{
+"code": "CC",
+"label": "CC - Camping Site and Premises"
+},
+{
+"code": "CP",
+"label": "CP - Car Park and Premises"
+},
+{
+"code": "CP1",
+"label": "CP1 - Car Parking Space and Premises"
+},
+{
+"code": "CG3",
+"label": "CG3 - Car Showroom and Premises"
+},
+{
+"code": "CC3",
+"label": "CC3 - Caravan & Pitch and Premises"
+},
+{
+"code": "CC6",
+"label": "CC6 - Caravan and Chalet Park and Premises"
+},
+{
+"code": "CC1",
+"label": "CC1 - Caravan Park and Premises"
+},
+{
+"code": "CC4",
+"label": "CC4 - Caravan Pitch and Premises"
+},
+{
+"code": "MC",
+"label": "MC - Cemetery and Premises"
+},
+{
+"code": "CC5",
+"label": "CC5 - Chalet Park and Premises"
+},
+{
+"code": "LT",
+"label": "LT - Cinema and Premises"
+},
+{
+"code": "CL2",
+"label": "CL2 - Club and Premises"
+},
+{
+"code": "LC1",
+"label": "LC1 - Club House and Premises"
+},
+{
+"code": "EL1",
+"label": "EL1 - College and Premises"
+},
+{
+"code": "EP1",
+"label": "EP1 - College and Premises"
+},
+{
+"code": "MT1",
+"label": "MT1 - Communication Station and Premises"
+},
+{
+"code": "LC",
+"label": "LC - Community Centre and Premises"
+},
+{
+"code": "CO1",
+"label": "CO1 - Computer Centre and Premises"
+},
+{
+"code": "IM3",
+"label": "IM3 - Concrete Batching Plant and Premises"
+},
+{
+"code": "MC1",
+"label": "MC1 - Crematorium and Premises"
+},
+{
+"code": "EN1",
+"label": "EN1 - Day Nursery and Premises"
+},
+{
+"code": "FD",
+"label": "FD - Dock Hereditament and Premises"
+},
+{
+"code": "FE",
+"label": "FE - Electricity Hereditament and Premises"
+},
+{
+"code": "IF",
+"label": "IF - Factory and Premises"
+},
+{
+"code": "MS1",
+"label": "MS1 - Fire Station and Premises"
+},
+{
+"code": "CR2",
+"label": "CR2 - Food Court and Premises"
+},
+{
+"code": "LS5",
+"label": "LS5 - Football Ground and Premises"
+},
+{
+"code": "TD1",
+"label": "TD1 - Forces Careers Office and Premises"
+},
+{
+"code": "CG2",
+"label": "CG2 - Garage and Premises"
+},
+{
+"code": "LS2",
+"label": "LS2 - Golf Course and Premises"
+},
+{
+"code": "CH2",
+"label": "CH2 - Guest House and Premises"
+},
+{
+"code": "CS3",
+"label": "CS3 - Hairdressing Salon and Premises"
+},
+{
+"code": "LC3",
+"label": "LC3 - Hall and Premises"
+},
+{
+"code": "MH1",
+"label": "MH1 - Health Centre and Premises"
+},
+{
+"code": "CC2",
+"label": "CC2 - Holiday Centre and Premises"
+},
+{
+"code": "MR1",
+"label": "MR1 - Home and Premises"
+},
+{
+"code": "MH2",
+"label": "MH2 - Hospital and Premises"
+},
+{
+"code": "MH3",
+"label": "MH3 - Hospital and Premises"
+},
+{
+"code": "CH",
+"label": "CH - Hotel and Premises"
+},
+{
+"code": "CS8",
+"label": "CS8 - Hypermarket and Premises"
+},
+{
+"code": "CS4",
+"label": "CS4 - Kiosk and Premises"
+},
+{
+"code": "CW1",
+"label": "CW1 - Land Used For Storage and Premises"
+},
+{
+"code": "CS5",
+"label": "CS5 - Launderette and Premises"
+},
+{
+"code": "MP1",
+"label": "MP1 - Law Court and Premises"
+},
+{
+"code": "LC2",
+"label": "LC2 - Leisure Centre and Premises"
+},
+{
+"code": "EM",
+"label": "EM - Library and Premises"
+},
+{
+"code": "LS3",
+"label": "LS3 - Marina and Premises"
+},
+{
+"code": "CM1",
+"label": "CM1 - Market and Premises"
+},
+{
+"code": "CM",
+"label": "CM - Market and Premises"
+},
+{
+"code": "IF1",
+"label": "IF1 - Mill and Premises"
+},
+{
+"code": "IM1",
+"label": "IM1 - Mine and Premises"
+},
+{
+"code": "NT1",
+"label": "NT1 - Mooring and Premises"
+},
+{
+"code": "CH3",
+"label": "CH3 - Motel and Premises"
+},
+{
+"code": "EM1",
+"label": "EM1 - Museum and Premises"
+},
+{
+"code": "CO",
+"label": "CO - Offices and Premises"
+},
+{
+"code": "ML",
+"label": "ML - Offices and Premises"
+},
+{
+"code": "CX",
+"label": "CX - Other Commercial"
+},
+{
+"code": "EX",
+"label": "EX - Other Educational, Training and Cult."
+},
+{
+"code": "IX",
+"label": "IX - Other Industrial"
+},
+{
+"code": "IMX",
+"label": "IMX - Other Industrial Mineral"
+},
+{
+"code": "LX",
+"label": "LX - Other Leisure"
+},
+{
+"code": "MX",
+"label": "MX - Other Miscellaneous"
+},
+{
+"code": "NX",
+"label": "NX - Other Non Formula"
+},
+{
+"code": "MTX",
+"label": "MTX - Other Telecommunications"
+},
+{
+"code": "IM6",
+"label": "IM6 - Peat Fields and Premises"
+},
+{
+"code": "CG",
+"label": "CG - Petrol Filling Station and Premises"
+},
+{
+"code": "LS4",
+"label": "LS4 - Playing Field and Premises"
+},
+{
+"code": "MP",
+"label": "MP - Police Station and Premises"
+},
+{
+"code": "CS6",
+"label": "CS6 - Post Office and Premises"
+},
+{
+"code": "MP2",
+"label": "MP2 - Prison and Premises"
+},
+{
+"code": "CL",
+"label": "CL - Public House and Premises"
+},
+{
+"code": "MT2",
+"label": "MT2 - Public Telephone Kiosk and Premises"
+},
+{
+"code": "IM",
+"label": "IM - Quarry and Premises"
+},
+{
+"code": "CR",
+"label": "CR - Restaurant and Premises"
+},
+{
+"code": "CS10",
+"label": "CS10 - Retail Warehouse and Premises"
+},
+{
+"code": "CG4",
+"label": "CG4 - Road Haulage Depot and Premises"
+},
+{
+"code": "EP",
+"label": "EP - School and Premises"
+},
+{
+"code": "EL",
+"label": "EL - School and Premises"
+},
+{
+"code": "CH1",
+"label": "CH1 - Self Catering Holiday Unit and Premises"
+},
+{
+"code": "NW",
+"label": "NW - Sewage Treatment Works and Premises"
+},
+{
+"code": "CS",
+"label": "CS - Shop and Premises"
+},
+{
+"code": "CS7",
+"label": "CS7 - Showroom and Premises"
+},
+{
+"code": "IM5",
+"label": "IM5 - Spoil Heap Workings and Premises"
+},
+{
+"code": "LS1",
+"label": "LS1 - Sporting Right and Premises"
+},
+{
+"code": "LI",
+"label": "LI - Sports Centre and Premises"
+},
+{
+"code": "LS",
+"label": "LS - Sports Ground and Premises"
+},
+{
+"code": "LI1",
+"label": "LI1 - Stadium and Premises"
+},
+{
+"code": "CW2",
+"label": "CW2 - Storage Depot and Premises"
+},
+{
+"code": "CW3",
+"label": "CW3 - Store and Premises"
+},
+{
+"code": "CS9",
+"label": "CS9 - Superstore and Premises"
+},
+{
+"code": "MH",
+"label": "MH - Surgery and Premises"
+},
+{
+"code": "LS6",
+"label": "LS6 - Swimming Pool and Premises"
+},
+{
+"code": "LS7",
+"label": "LS7 - Tennis Centre and Premises"
+},
+{
+"code": "LT3",
+"label": "LT3 - Theatre and Premises"
+},
+{
+"code": "CC7",
+"label": "CC7 - Time Share Complex and Premises"
+},
+{
+"code": "IM4",
+"label": "IM4 - Tipping Site and Premises"
+},
+{
+"code": "EU",
+"label": "EU - University and Premises"
+},
+{
+"code": "CG1",
+"label": "CG1 - Vehicle Repair Workshop and Premises"
+},
+{
+"code": "CW",
+"label": "CW - Warehouse and Premises"
+},
+{
+"code": "NT3",
+"label": "NT3 - Wharf and Premises"
+},
+{
+"code": "CL1",
+"label": "CL1 - Wine Bar and Premises"
+},
+{
+"code": "IF2",
+"label": "IF2 - Works and Premises"
+},
+{
+"code": "IF3",
+"label": "IF3 - Workshop and Premises"
+}
+]
